@@ -21,13 +21,6 @@ HTML • CSS • Bootstrap • JavaScript
 Currently Learning:  
 JavaScript ES6 • React • Responsive Layouts
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanadeldar-dev&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanadeldar-dev&layout=compact&theme=transparent" height="160" />
-</p>
 
 ---
 
