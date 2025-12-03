@@ -29,6 +29,8 @@ JavaScript ES6 • DOM • Responsive Layouts
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanadeldar-dev&layout=compact&theme=transparent" height="160" />
 </p>
 
+---
+
 
 ### ✨ Fun Fact
 I learn best by building — even small projects help me grow every day!
