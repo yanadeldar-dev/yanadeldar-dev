@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning JavaScript, DOM manipulation and responsive UI  
+- 🌱 I’m currently learning React and responsive UI  
 - 💻 I enjoy building clean, simple and user-friendly web pages  
 - 🎯 Goal: grow as a Front-end Developer through real practice  
 - 🤝 Open to collaboration and beginner-friendly contributions  
@@ -19,7 +19,7 @@ Front-end:
 HTML • CSS • Bootstrap • JavaScript 
 
 Currently Learning:  
-JavaScript ES6 • DOM • Responsive Layouts
+JavaScript ES6 • React • Responsive Layouts
 
 ---
 
@@ -31,6 +31,12 @@ JavaScript ES6 • DOM • Responsive Layouts
 
 ---
 
+### 📫 Contact Me
+- Email: yanadeldar@gmail.com
+
+
+---
 
 ### ✨ Fun Fact
 I learn best by building — even small projects help me grow every day!
+
